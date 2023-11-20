@@ -5,4 +5,4 @@ Depending on the command line options used, the tool will perform a different pr
 
 Usage:
 > python FASTQFASTA_processor.py --input [FILE]--output [FILE] --operation [OPERATION]
-[OPERATION] in {rc,trim,adaptor-removal}
+> [OPERATION] in {rc,trim,adaptor-removal}
